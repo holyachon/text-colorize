@@ -1,0 +1,12 @@
+{
+  "name": "text-colorize",
+  "id": "904639685617512761",
+  "api": "1.0.0",
+  "main": "code.js",
+  "menu": [
+    {
+      "name": "Colorize Text",
+      "command": "colorize_text"
+    }
+  ]
+}

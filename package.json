@@ -1,0 +1,14 @@
+{
+  "name": "text-colorize",
+  "version": "0.0.1",
+  "description": "Text에 Color를 적용하는 Figma Plugin 입니다.",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc -p tsconfig.json"
+  },
+  "author": "Shin Youngmin",
+  "license": "MIT",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.18.1"
+  }
+}
